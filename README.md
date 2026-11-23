@@ -12,7 +12,7 @@
 | زبان C# 15 | Union، Closed Hierarchy و سایر قابلیت‌ها | [02-CSharp15/](02-CSharp15/) |
 | .NET 11 | Runtime، SDK و کتابخانه‌ها | [03-DotNet11/](03-DotNet11/) |
 | ASP.NET Core 11 | Minimal API، Validation و OpenAPI | [04-ASP.NET-Core11/](04-ASP.NET-Core11/) |
-| EF Core 11 | FullJoin و Vector Search | [05-EFCore11/](05-EFCore11/) |
+| EF Core 11 | Complex Types، LINQ، Vector، Full-Text، Migrations و Cosmos | [05-EFCore11/](05-EFCore11/) |
 | هوش مصنوعی | Microsoft.Extensions.AI و MCP | [06-AI-DotNet/](06-AI-DotNet/) |
 | مهاجرت | تصمیم‌گیری و چک‌لیست | [07-Migration/](07-Migration/) |
 | پروژه عملی | مدیریت سفارش | [08-Project/](08-Project/) |
@@ -73,14 +73,24 @@ dotnet run
 17. [OpenAPI 3.2](04-ASP.NET-Core11/openapi-32.md)
 18. [Endpoint Filters](04-ASP.NET-Core11/endpoint-filters.md)
 19. [EF Core 11](05-EFCore11/overview.md)
-20. [FullJoin](05-EFCore11/full-join.md)
-21. [Vector Search](05-EFCore11/vector-search.md)
-22. [AI Development](06-AI-DotNet/ai-development.md)
-23. [Migration از .NET 10](07-Migration/dotnet10-to-dotnet11.md)
-24. [Breaking Changes](07-Migration/breaking-changes.md)
-25. [پروژه مدیریت سفارش](08-Project/order-management.md)
-26. [تمرین‌های C# 15](09-Exercises/csharp15-exercises.md)
-27. [تمرین‌های .NET 11](09-Exercises/dotnet11-exercises.md)
-28. [سؤالات مصاحبه](09-Exercises/interview-questions.md)
-29. [منابع](Resources/references.md)
+20. [Complex Types](05-EFCore11/complex-types.md)
+21. [بهبود LINQ و SQL Translation](05-EFCore11/linq-improvements.md)
+22. [FullJoin](05-EFCore11/full-join.md)
+23. [JSON در SQL Server](05-EFCore11/json-sql-server.md)
+24. [Vector Search](05-EFCore11/vector-search.md)
+25. [Full-Text و Hybrid Search](05-EFCore11/full-text-search.md)
+26. [Temporal Tables](05-EFCore11/temporal-tables.md)
+27. [ترجمه تاریخ و زمان](05-EFCore11/date-time-translations.md)
+28. [بهبود SQLite](05-EFCore11/sqlite.md)
+29. [Azure Cosmos DB](05-EFCore11/cosmos-db.md)
+30. [بهبود Migrations](05-EFCore11/migrations.md)
+31. [راهنمای Migration به EF Core 11](05-EFCore11/migration-guide.md)
+32. [AI Development](06-AI-DotNet/ai-development.md)
+33. [Migration از .NET 10](07-Migration/dotnet10-to-dotnet11.md)
+34. [Breaking Changes](07-Migration/breaking-changes.md)
+35. [پروژه مدیریت سفارش](08-Project/order-management.md)
+36. [تمرین‌های C# 15](09-Exercises/csharp15-exercises.md)
+37. [تمرین‌های .NET 11](09-Exercises/dotnet11-exercises.md)
+38. [سؤالات مصاحبه](09-Exercises/interview-questions.md)
+39. [منابع](Resources/references.md)
 
